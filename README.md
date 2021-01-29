@@ -1,6 +1,7 @@
 
-<link rel="stylesheet" href="/css/bvi.min.css" type="text/css">
-<link rel="stylesheet" href="/css/bvi-font.min.css" type="text/css">
+Snachalo
+< link rel="stylesheet" href="/css/bvi.min.css" type="text/css">
+< link rel="stylesheet" href="/css/bvi-font.min.css" type="text/css">
 И файлы JS скриптов перед закрывающим тегом </body>
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
@@ -10,7 +11,7 @@
 <script src="/js/bvi.min.js"></script>
 Не поверите, но это практически все! Осталось только разместить кнопку для включения в любом месте сайта. И можно проверять работу плагина.
 
-<a href="#" class="bvi-open" title="Версия сайта для слабовидящих"><i class="bvi-icon bvi-eye bvi-2x"></i> Версия сайта для слабовидящих</a>
+<ahref="#" class="bvi-open" title="Версия сайта для слабовидящих"><i class="bvi-icon bvi-eye bvi-2x"></i> Версия сайта для слабовидящих</a>
 
 
 
