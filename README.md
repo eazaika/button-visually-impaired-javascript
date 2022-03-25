@@ -1,4 +1,7 @@
 
+
+https://joomla.stackexchange.com/questions/3990/create-custom-module-with-javascript-js -- joomla add custom snipet 
+
 Snachalo
 < link rel="stylesheet" href="/css/bvi.min.css" type="text/css">
 < link rel="stylesheet" href="/css/bvi-font.min.css" type="text/css">
